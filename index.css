@@ -10,7 +10,7 @@ td{
     
 }
 tr{
-    /* padding: 1em 2em; */
+    width: 0;
 }
 table{
     align-items: center;
